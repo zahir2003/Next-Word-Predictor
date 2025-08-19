@@ -48,7 +48,7 @@ This project is inspired by the need for smarter text prediction in chatbots, vi
 
 - **Author:** Sk Mahiduzzaman
 - **LinkedIn:** [LinkedIn](www.linkedin.com/in/sk-mahiduzzaman)
-- **GitHub:** [GitHub](https://github.com/zahir2003)
+- **Email**: [Email](mailto:mohiduz03@gmail.com)
 
 ---
 
